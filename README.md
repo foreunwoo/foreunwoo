@@ -1,7 +1,4 @@
-About me 👾
-=============
-
-![foreunwoo's github stats](https://github-readme-stats.vercel.app/api?username=foreunwoo&show_icons=true)[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=suuum12)](https://solved.ac/suuum12)
+![foreunwoo's github stats](https://github-readme-stats.vercel.app/api?username=foreunwoo&show_icons=true)
 
 <!--
 **foreunwoo/foreunwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
